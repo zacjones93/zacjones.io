@@ -22,9 +22,9 @@ Tailwind gives you highly compossable low-level utility clases that let you own 
 
 Adam Wathan has 4 egghead lesson collections that he published this year (2020) that get you started on Tailwind. They're super great, I highly recommend you check them out (They are FREE!)
 
-[Introduction to Tailwind and the Utility First Workflow](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10)
-[Design and Implement Common Tailwind Components](https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19)
-[Build a Responsive navbar with Tailwind](https://egghead.io/playlists/build-a-responsive-navbar-with-tailwind-4d328a35)
-[Build and Style a Dropdown in Tailwind](https://egghead.io/playlists/build-and-style-a-dropdown-in-tailwind-7f34fead)
+- [Introduction to Tailwind and the Utility First Workflow](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10)
+- [Design and Implement Common Tailwind Components](https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19)
+- [Build a Responsive navbar with Tailwind](https://egghead.io/playlists/build-a-responsive-navbar-with-tailwind-4d328a35)
+- [Build and Style a Dropdown in Tailwind](https://egghead.io/playlists/build-and-style-a-dropdown-in-tailwind-7f34fead)
 
 I also took notes on these collections as I was working through them, you might find them useful as a study companion if you want to work through these collections. Check them out: [Introduction to Tailwind CSS Notes](https://github.com/zacjones93/introduction-to-tailwind-notes)
