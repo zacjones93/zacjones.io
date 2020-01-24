@@ -22,7 +22,9 @@ But what makes a question *essential*?
 
 Essential Questions highlight what's important in any content that you are learning. They are the questions that you ask yourself to understand better the content in front of you and connect these ideas to what you have learned in the past. Essential Questions are meant to stimulate thought, to provoke inquiry, and to spark more questions. These questions reach past the surface level and dig into how ideas and understandings are connected. There is a sense of exploration when you start thinking about the questions that you have about a topic.
 
-What are the patterns you notice? Where have you seen the same pattern in a different context? The answer to these questions will often include more questions. There's a progression to them as you go from beginner to expert. In Understanding by Design, there are 7 characteristics of Essential Questions that will help learners progress through content (McTighe and Wiggins, *Essential Questions*, *3)*: 
+What are the patterns you notice? Where have you seen the same pattern in a different context? The answer to these questions will often include more questions. There's a progression to them as you go from beginner to expert. 
+
+In Understanding by Design, there are 7 characteristics of Essential Questions that will help learners progress through content (McTighe and Wiggins, *Essential Questions*, *3)*: 
 
 1. Is *open-ended;* that is, it typically will not have a single, final, and correct answer.
 
